@@ -1,4 +1,5 @@
-# WackyLoggingmy very simple little python logging library
+# WackyLogging
+my very simple little python logging library
 
 # usage
 send an "INFO" message
