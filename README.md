@@ -1,2 +1,9 @@
-# wackylogging
-pacman's wacky logging library
+# WackyLogging
+my wacky little python logging library
+
+# usage
+send an "INFO" message
+```py
+import WackyLogging
+WackyLogging.Info("information message")
+```
