@@ -7,3 +7,8 @@ send an "INFO" message
 import WackyLogging
 WackyLogging.Info("information message")
 ```
+send a "WARN" message
+```py
+import WackyLogging
+WackyLogging.Warn("warning message")
+```
