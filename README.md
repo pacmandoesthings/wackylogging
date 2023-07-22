@@ -22,7 +22,7 @@ WackyLogging.Error("error message")
 and finally, send a "SUCCESS" message
 ```py
 import WackyLogging
-WackyLogging.Success("information message")
+WackyLogging.Success("success message")
 ```
 
 easy isn't it! just drag WackyLogging.py into your project and you can use any of the code mentioned above.
